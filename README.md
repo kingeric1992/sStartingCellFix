@@ -7,7 +7,7 @@ Skyrim SE/AE has a Skyrim.ini setting `sStartingCell=` under [`General`] section
 Bethesda eventually fixed the problem in release 1.6.1130, and this plugin is to fix the same bug in prior versions.
 
 # Installation
-Place `sStartingCellFix.dll` under `DATA/SKSE/Plugins`, or use respective mod organizer/manager to install the plugin.
+Place `sStartingCellFix.dll` under `GameDir/DATA/SKSE/Plugins`, or use respective mod organizer/manager to install the plugin.
 
 # Build Dependency
 This project requires following vcpkg package to build:
@@ -16,3 +16,5 @@ This project requires following vcpkg package to build:
 
 # Changelog
 * April.13.2025 initial release.
+
+binary released at https://www.patreon.com/posts/sstartingcellfix-126530784
